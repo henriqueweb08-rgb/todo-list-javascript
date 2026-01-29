@@ -1,4 +1,4 @@
-# Lista de Tarefas
+# Lista de Tarefas 
 
 Projeto simples de uma lista de tarefas desenvolvida com HTML, CSS e JavaScript puro.
 
