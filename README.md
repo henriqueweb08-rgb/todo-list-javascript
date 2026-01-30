@@ -16,5 +16,5 @@ Projeto simples de uma lista de tarefas desenvolvida com HTML, CSS e JavaScript 
 Projeto criado para praticar manipulação do DOM, eventos e organização de código
 utilizando JavaScript.
 
-## 🔗 Demo
-(Adicionar link do GitHub Pages)
+## 🔗 Demo Online: https://henriqueweb08-rgb.github.io/todo-list-javascript/
+
